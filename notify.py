@@ -13,7 +13,7 @@ client = Client(account_sid, auth_token)
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
-os.environ["GROQ_API_KEY"]= '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'
+os.environ["GROQ_API_KEY"]= "GROQ_API_KEY"
 
 llm1 = ChatGroq(
     model="llama3-70b-8192",
