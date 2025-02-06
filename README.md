@@ -17,7 +17,6 @@
 ### 1. User Authentication  
 Users must authenticate before accessing the application.  
 ![User Authentication](https://github.com/user-attachments/assets/e1fca7ea-c60f-4752-b243-b1fce32eb089)  
-![User Authentication](https://github.com/user-attachments/assets/392bb8ae-753e-43fb-b637-c7d281547336)  
 
 ### 2. Application Interface  
 The application interface provides an intuitive user experience.  
